@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.coffee"],"names":[],"mappings":"AAAA;AAAA,MAAA,IAAA;;AAAA,EAAA,CAAA,GAAI,CAAC,CAAD,EAAG,CAAH,EAAK,CAAL,EAAO,CAAP,EAAS,CAAT,CAAJ,CAAA;;AAAA,EAEA,CAAA,GAAI,SAAC,CAAD,EAAG,CAAH,GAAA;AACF,WAAO,CAAA,GAAI,CAAX,CADE;EAAA,CAFJ,CAAA;AAAA","file":"app.js","sourceRoot":"/source/","sourcesContent":["a = [1,2,3,3,4]\n\nb = (c,v) ->\n  return c + v\n"]}
